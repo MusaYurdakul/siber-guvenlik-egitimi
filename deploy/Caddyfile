@@ -1,0 +1,16 @@
+# Alan adı için HTTPS sertifikasını Caddy otomatik alır ve yeniler.
+__DOMAIN__ {
+	encode zstd gzip
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "DENY"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+
+	# Uygulama yalnızca 127.0.0.1:8797'de dinler; dışarıya Caddy üzerinden açılır.
+	# Caddy, X-Forwarded-For / -Proto / -Host başlıklarını kendisi ekler.
+	reverse_proxy 127.0.0.1:8797
+}

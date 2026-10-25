@@ -1,0 +1,16 @@
+node_modules
+dist
+server/data/
+.tts-cache
+egitim-paket.tar.gz
+Teslim/
+
+# Ses dosyalari (lisanssiz TTS ile uretildi; npm run tts ile yeniden uretilir)
+public/audio/
+
+# Gercek sinav soru havuzu ve cevap anahtari (yalnizca sunucuda tutulur)
+server/quiz/questions.json
+
+# Kuruma yonelik teslim notu ve arac dosyalari
+TESLIM-NOTU.md
+.claude/

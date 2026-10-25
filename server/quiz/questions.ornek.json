@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ornek01",
+    "sectionId": 1,
+    "tag": "ornek-konu",
+    "type": "truefalse",
+    "text": "Örnek doğru/yanlış sorusu: Şifreler e-posta ile paylaşılabilir.",
+    "options": [
+      "Doğru",
+      "Yanlış"
+    ],
+    "correctIndex": 1,
+    "explanation": "Örnek açıklama: şifreler hiçbir kanaldan paylaşılmaz."
+  },
+  {
+    "id": "ornek02",
+    "sectionId": 2,
+    "tag": "ornek-konu",
+    "type": "multiple",
+    "text": "Örnek çoktan seçmeli soru: Şüpheli bir e-posta aldığınızda ilk adım hangisidir?",
+    "options": [
+      "Bağlantıya tıklayıp kontrol etmek",
+      "Göndereni bağımsız bir kanaldan doğrulamak",
+      "E-postayı iş arkadaşlarına iletmek",
+      "Eki açıp içeriğine bakmak"
+    ],
+    "correctIndex": 1,
+    "explanation": "Örnek açıklama: göndereni bilinen bir kanaldan doğrulayın."
+  }
+]

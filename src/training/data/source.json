@@ -1,0 +1,170 @@
+{
+  "documentTitle": "KURUM ÇALIŞANLARI İÇİN VİDEO ANLATIM METNİ",
+  "sections": [
+    {
+      "id": 1,
+      "title": "Bilgi Güvenliği, Siber Güvenlik ve Siber Hijyen",
+      "paragraphs": [
+        "Bilgi güvenliği ve siber güvenlik yalnızca Bilgi Teknolojileri biriminin sorumluluğu değildir. Kurumun sahip olduğu bilgilerin korunması; çalışanların, yöneticilerin, tedarikçilerin ve kurum adına işlem yapan herkesin ortak sorumluluğudur. Çünkü saldırganlar her zaman teknik sistemlerdeki bir açıklığı hedeflemez. Bazen bir çalışanın dikkatsizliğinden, aceleyle verdiği bir karardan veya doğrulamadan açtığı bir dosyadan yararlanmaya çalışır.",
+        "Bilgi güvenliğinin temel amacı, bilginin gizliliğini, bütünlüğünü ve ihtiyaç duyulduğunda erişilebilir olmasını sağlamaktır. Gizlilik, bilgiye yalnızca yetkili kişilerin ulaşabilmesi; bütünlük, bilginin yetkisiz şekilde değiştirilmemesi; erişilebilirlik ise bilgi ve sistemlerin ihtiyaç duyulan zamanda kullanılabilmesi anlamına gelir. Bu üç unsurdan herhangi birinin zarar görmesi kurumun faaliyetlerini, müşterilerini, çalışanlarını ve itibarını doğrudan etkileyebilir.",
+        "Siber hijyen, günlük çalışma sırasında uygulanan düzenli ve koruyucu davranışların bütünüdür. Güçlü parola kullanmak, güncellemeleri zamanında yapmak, şüpheli bağlantılara tıklamamak, ekranı kilitlemek ve olayları gecikmeden bildirmek siber hijyenin temel örnekleridir. Siber hijyen sertifikasyonu çalışmaları da teknik tedbirlerin yanında bu davranışların kurum genelinde yerleşmesini, sorumlulukların bilinmesini ve uygulamaların kanıtlanabilir hâle getirilmesini amaçlar.",
+        "Bu eğitim boyunca sosyal mühendislik saldırılarını, güvenli e-posta ve internet kullanımını, USB bellekleri, sosyal medyayı, şahsi cihazları, güvenli kimlik doğrulamayı, hassas verilerin korunmasını ve siber saldırı tatbikatlarını ele alacağız. Temel kuralımız şudur: Şüpheli bir durumla karşılaştığınızda durun, doğrulayın, koruyun ve bildirin."
+      ],
+      "keyMessage": "Bilgi güvenliği herkesin sorumluluğudur."
+    },
+    {
+      "id": 2,
+      "title": "Sosyal Mühendislik Saldırıları",
+      "paragraphs": [
+        "Sosyal mühendislik, insanları yanıltarak bilgi vermeye, bağlantıya tıklamaya, dosya açmaya, ödeme yapmaya veya güvenlik kuralını ihlal etmeye yönelten saldırı yöntemidir. Phishing saldırıları e-posta, smishing saldırıları kısa mesaj, vishing saldırıları ise telefon görüşmesi üzerinden yürütülür. Saldırgan; yönetici, banka çalışanı, müşteri, kargo firması, teknik destek personeli veya kamu görevlisi gibi davranabilir.",
+        "Bu saldırılarda genellikle aciliyet, korku, merak, ödül veya otorite duygusu kullanılır. “Hesabınız kapanacaktır”, “ödemeyi hemen yapın”, “bu belgeyi yalnızca siz görebilirsiniz” veya “doğrulama kodunu paylaşmanız gerekiyor” gibi ifadeler çalışanı düşünmeden hareket etmeye zorlar. Gönderenin adı doğru görünse bile gerçek e-posta adresi farklı olabilir. Mesajdaki bağlantı, bilinen bir internet adresine çok benzeyen sahte bir siteye yönlendirebilir.",
+        "Beklenmeyen bir talep aldığınızda önce durun. Mesajın gönderenini, alan adını, telefon numarasını, dilini ve talebin olağan iş akışıyla uyumunu kontrol edin. Özellikle para transferi, banka hesabı değişikliği, parola sıfırlama, gizli belge gönderimi veya doğrulama kodu paylaşımı taleplerini farklı bir iletişim kanalından doğrulayın. Mesajın içindeki telefon numarasını değil, daha önce bildiğiniz veya kurum kayıtlarında bulunan iletişim bilgisini kullanın.",
+        "Şüpheli mesajı yanıtlamayın, ekini açmayın ve bağlantısına tıklamayın. Mesajı silmeden önce kurumun belirlediği bilgi güvenliği olay bildirim kanalına iletin. Yanlışlıkla tıkladıysanız veya bilgi paylaştıysanız bunu gizlemeyin. Erken bildirim, saldırının etkisini sınırlandırmak için en önemli adımdır. Amaç çalışanı suçlamak değil, kurumu korumaktır."
+      ],
+      "keyMessage": "Acele ettiren, gizlilik isteyen veya olağandışı talep içeren mesajları mutlaka doğrulayın."
+    },
+    {
+      "id": 3,
+      "title": "Güvenli E-posta Kullanımı",
+      "paragraphs": [
+        "E-posta, iş hayatının en önemli iletişim araçlarından biri olduğu kadar saldırganların da en sık kullandığı giriş noktalarından biridir. Güvenli e-posta kullanımı, yalnızca zararlı mesajları tanımaktan ibaret değildir. Doğru alıcıya gönderim yapmak, hassas bilgileri uygun yöntemle paylaşmak ve kurumsal hesabı güvenli şekilde kullanmak da bu kapsamda değerlendirilir.",
+        "Bir e-postayı açtığınızda görünen gönderici adına değil, gerçek e-posta adresine bakın. Alan adındaki harf değişikliklerine, gereksiz tirelere ve benzer karakterlere dikkat edin. Fare imlecini bağlantının üzerine getirerek gerçek yönlendirme adresini kontrol edin. Beklemediğiniz ekleri, özellikle çalıştırılabilir dosyaları, sıkıştırılmış arşivleri veya makro etkinleştirmenizi isteyen belgeleri açmayın. Antivirüs uyarılarını ve e-posta sisteminin güvenlik bildirimlerini görmezden gelmeyin.",
+        "E-posta gönderirken alıcıları, bilgi alanını, ekleri ve mesaj içeriğini son kez kontrol edin. Yanlış kişiye gönderilen bir dosya da bilgi güvenliği olayıdır. Çok sayıda dış alıcıya gönderim yapılacaksa kişilerin e-posta adreslerini birbirinden gizlemek amacıyla uygun gönderim yöntemi kullanılmalıdır. Hassas veya kişisel veri içeren belgeler yalnızca kurumun izin verdiği güvenli yöntemlerle paylaşılmalı; gerekli olduğunda parola koruması veya şifreli aktarım uygulanmalıdır. Dosya parolası, dosyanın gönderildiği aynı e-posta içinde paylaşılmamalıdır.",
+        "Kurumsal e-posta hesabınızı kişisel üyelikler, alışveriş siteleri veya kurum faaliyetleriyle ilgisi olmayan hizmetler için kullanmayın. E-posta parolanızı paylaşmayın ve hesabınıza gelen çok faktörlü doğrulama talebini işlemi siz başlatmadıysanız onaylamayın. Şüpheli bir e-postayı başka çalışanları uyarmak amacıyla normal şekilde yönlendirmek yerine belirlenen olay bildirim yöntemini kullanın."
+      ],
+      "keyMessage": "Göndermeden önce alıcıyı, eki ve hassas içeriği yeniden kontrol edin."
+    },
+    {
+      "id": 4,
+      "title": "USB Bellek ve Güvenli İnternet Kullanımı",
+      "paragraphs": [
+        "USB bellekler kolay taşınabilir olmaları nedeniyle kullanışlıdır; ancak zararlı yazılım bulaşması, veri kaybı ve yetkisiz veri aktarımı açısından önemli riskler taşır. Kaynağı bilinmeyen, yerde bulunan veya kişisel amaçla kullanılan bir USB belleği kurum cihazına takmayın. Yalnızca kurum tarafından izin verilen, mümkünse şifreleme özelliği bulunan ve güvenlik kontrolünden geçirilmiş bellekleri kullanın.",
+        "Hassas verileri USB belleğe kopyalamadan önce bunun iş için gerçekten gerekli olup olmadığını ve yetkinizin bulunup bulunmadığını değerlendirin. Kullanım zorunluysa yalnızca gerekli dosyaları aktarın, belleği gözetimsiz bırakmayın ve işlem tamamlandığında veriyi kurumun güvenli saklama alanına taşıyarak kurum kurallarına uygun şekilde silin. USB bellek üzerinden gelen dosyalarda güvenlik yazılımının taramasını devre dışı bırakmayın.",
+        "Güvenli internet kullanımı, kurumun internet erişimini iş amaçları ve belirlenen kullanım kuralları doğrultusunda kullanmayı gerektirir. Yazılım, eklenti ve dosyaları yalnızca onaylı kaynaklardan indirin. Lisanssız yazılım, korsan içerik veya kaynağı belirsiz ücretsiz uygulamalar zararlı yazılım içerebilir. Tarayıcının sertifika, zararlı site veya güvenli olmayan bağlantı uyarılarını görmezden gelmeyin.",
+        "Kurumsal bilgileri onaylanmamış bulut depolama, dosya transfer, mesajlaşma, çeviri veya yapay zekâ hizmetlerine yüklemeyin. Ücretsiz ve kolay erişilebilir olması bir hizmetin kurumsal veri için güvenli olduğu anlamına gelmez. İnternette açılan pop-up mesajlara, sahte güncelleme bildirimlerine ve “cihazınıza virüs bulaştı” şeklindeki yönlendirmelere tıklamayın. Böyle bir uyarıyla karşılaştığınızda ekran görüntüsü alarak Bilgi Teknolojileri birimine bildirin."
+      ],
+      "keyMessage": "Kaynağını bilmediğiniz USB belleği ve dosyayı kullanmayın."
+    },
+    {
+      "id": 5,
+      "title": "Güvenli Sosyal Medya Kullanımı ve BYOD",
+      "paragraphs": [
+        "Sosyal medya paylaşımları, farkında olmadan kurum hakkında saldırganlara değerli bilgiler sağlayabilir. Çalışma alanı fotoğraflarında görünen ekranlar, ziyaretçi kartları, üretim ekipmanları, toplantı notları veya belgeler güvenlik riski oluşturabilir. Müşteri bilgileri, çalışan verileri, ticari sırlar, sistem yapısı, güvenlik düzeni ve henüz kamuya açıklanmamış bilgiler sosyal medyada paylaşılmamalıdır.",
+        "Kurum adına açıklama yapma yetkiniz yoksa kurumu temsil edecek şekilde görüş bildirmeyin. Sahte hesaplardan gönderilen bağlantılara ve iş teklifi, ödül veya kampanya adı altında bilgi isteyen mesajlara dikkat edin. Sosyal medya hesaplarınızda güçlü ve benzersiz parola kullanın, çok faktörlü doğrulamayı etkinleştirin ve gizlilik ayarlarınızı düzenli olarak kontrol edin.",
+        "BYOD, yani şahsi cihazların şirket faaliyetleri için kullanılması, yalnızca kurumun izin verdiği koşullarda gerçekleştirilmelidir. Kişisel telefon, tablet veya bilgisayarınızın kurumsal sistemlere bağlanmasına izin verilmiş olması, kurumsal verileri istediğiniz uygulamada saklayabileceğiniz anlamına gelmez. Cihazda ekran kilidi, güncel işletim sistemi, güvenlik yazılımı ve mümkünse şifreleme bulunmalıdır.",
+        "Kurumsal dosyaları kişisel e-posta hesabınıza, kişisel bulut alanınıza veya onaylanmamış mesajlaşma uygulamalarına göndermeyin. Cihazı aile bireyleriyle ortak kullanmayın ve kaybolması veya çalınması hâlinde derhal bildirim yapın. Kurumun uzaktan silme, güvenli bağlantı, mobil cihaz yönetimi veya benzeri güvenlik tedbirlerine ilişkin kurallarına uyun. Kişisel cihaz kullanımı kolaylık sağlarken, cihazın ve üzerindeki kurumsal verinin korunmasına ilişkin sorumluluğu ortadan kaldırmaz."
+      ],
+      "keyMessage": "Kurumsal bilgiyi sosyal medyada ve kişisel uygulamalarda paylaşmayın."
+    },
+    {
+      "id": 6,
+      "title": "Güvenli Kimlik Doğrulama",
+      "paragraphs": [
+        "Kullanıcı hesapları, kurum sistemlerine açılan kişisel kapılardır. Bir hesabın ele geçirilmesi yalnızca hesabın sahibini değil, erişebildiği tüm sistemleri ve bilgileri etkileyebilir. Bu nedenle her kullanıcı yalnızca kendisine tahsis edilen hesabı kullanmalı; kullanıcı adı, parola, erişim kartı ve doğrulama kodları hiçbir kişiyle paylaşılmamalıdır.",
+        "Parolalar uzun, tahmin edilmesi zor ve her hesap için benzersiz olmalıdır. İsim, doğum tarihi, şirket adı, telefon numarası veya ardışık rakamlar gibi kolay tahmin edilebilir bilgiler kullanılmamalıdır. Bir hizmette kullanılan parola başka bir sistemde tekrar kullanılmamalıdır. Kurum tarafından parola yöneticisi sağlanmışsa parolaların güvenli şekilde saklanması için bu çözüm tercih edilmelidir. Parolalar kâğıda yazılarak ekranın üzerine veya masa çekmecesine bırakılmamalıdır.",
+        "Çok faktörlü kimlik doğrulama, parola ele geçirilse bile hesaba yetkisiz erişimi zorlaştırır. Telefonunuza veya uygulamanıza gelen doğrulama talebini yalnızca işlemi siz başlattıysanız onaylayın. Arka arkaya gelen beklenmeyen onay bildirimleri bir saldırı göstergesi olabilir. Böyle bir durumda talepleri reddedin, parolanızı güvenli yöntemle değiştirin ve olayı bildirin.",
+        "Masadan ayrılırken bilgisayarınızı kilitleyin. Ortak cihazlarda oturumu açık bırakmayın ve tarayıcıya parola kaydetme konusunda kurum kurallarına uyun. Yetkiniz değiştiğinde veya artık ihtiyaç duymadığınız bir erişim bulunduğunda yöneticinize ya da ilgili birime bilgi verin. Güvenli kimlik doğrulamanın temel ilkesi şudur: Hesap kişiseldir, erişim görevle sınırlıdır ve doğrulama bilgisi gizlidir."
+      ],
+      "keyMessage": "Parola ve doğrulama kodu kişiye özeldir; hiçbir koşulda paylaşılmaz."
+    },
+    {
+      "id": 7,
+      "title": "Hassas Verilerin Güvenli İşlenmesi ve Saklanması",
+      "paragraphs": [
+        "Hassas veri; açıklanması, değiştirilmesi, kaybolması veya yetkisiz kişilerin eline geçmesi hâlinde kuruma ya da ilgili kişilere zarar verebilecek bilgidir. Kişisel veriler, müşteri kayıtları, çalışan bilgileri, finansal veriler, sözleşmeler, fiyatlandırmalar, ticari sırlar, kaynak kodları ve erişim bilgileri bu kapsamda değerlendirilebilir. Bir bilginin kurum içinde bulunması, herkes tarafından görülebileceği anlamına gelmez.",
+        "Veriye yalnızca göreviniz için gerekli olduğu ölçüde erişin ve yalnızca belirlenen amaç için kullanın. İhtiyaç duyulmayan verinin kopyasını oluşturmayın. Dosyaları masaüstünde, kişisel klasörlerde veya kontrolsüz ortak alanlarda tutmak yerine kurumun yetkilendirilmiş sunucu, uygulama ve doküman yönetim alanlarında saklayın. Dosya ve klasör yetkilerini düzenli olarak gözden geçirin; “herkese açık” erişimi alışkanlık hâline getirmeyin.",
+        "Hassas veri aktarırken alıcının kimliğini, e-posta adresini ve erişim yetkisini kontrol edin. Kurum tarafından onaylanmış güvenli aktarım kanallarını kullanın. Verinin aktarımı için şifreleme veya parola koruması gerekiyorsa bu tedbirleri uygulayın ve parolayı farklı bir kanal üzerinden paylaşın. E-posta, USB bellek, bulut alanı veya mesajlaşma uygulamasıyla yapılan her aktarımın izinsiz paylaşım riski taşıdığını unutmayın.",
+        "Basılı belgeleri yazıcıda, toplantı odasında veya masa üzerinde bırakmayın. Dağıtılan kopya sayısını ihtiyaçla sınırlı tutun. Saklama süresi sona eren kayıtları çöpe atmak veya yalnızca bilgisayardan silmek her zaman yeterli değildir. Kâğıt belgeler güvenli imha yöntemiyle, elektronik veriler ise kurumun belirlediği silme veya yok etme yöntemiyle imha edilmelidir. Verinin yaşam döngüsü; oluşturma, kullanma, aktarma, saklama, dağıtma ve imha aşamalarının tamamında korunmalıdır."
+      ],
+      "keyMessage": "Hassas veriye yalnızca ihtiyaç kadar erişin, güvenli kanaldan aktarın ve yetkili alanda saklayın."
+    },
+    {
+      "id": 8,
+      "title": "Çalışma Ortamı, Uzaktan Çalışma ve Olay Bildirimi",
+      "paragraphs": [
+        "Bilgi güvenliği yalnızca dijital ortamda sağlanmaz. Temiz masa ve temiz ekran uygulaması, hassas belgelerin yetkisiz kişiler tarafından görülmesini önler. Çalışma alanından ayrılırken ekranı kilitleyin, belgeleri kapalı dolaplarda saklayın ve yazıcıdan çıkan evrakı gecikmeden alın. Erişim kartınızı başkasına vermeyin ve kimliğini bilmediğiniz kişilerin kısıtlı alanlara girişine yardımcı olmayın.",
+        "Uzaktan çalışırken halka açık kablosuz ağların güvenilir olmayabileceğini unutmayın. Kurumsal sistemlere yalnızca izin verilen cihazlar ve güvenli bağlantı yöntemleriyle erişin. Ekranınızın çevrenizdeki kişiler tarafından görülmesini, telefon görüşmelerinizin dinlenmesini ve basılı belgelerin kontrolsüz ortamda kalmasını önleyin. Cihazınızı araçta, kafede veya ortak alanda gözetimsiz bırakmayın.",
+        "Bilgi güvenliği olayı; şüpheli e-posta, yanlış alıcıya gönderim, kayıp cihaz, zararlı yazılım uyarısı, yetkisiz erişim, parola paylaşımı, veri sızıntısı veya olağandışı sistem davranışı şeklinde ortaya çıkabilir. Bir olayla karşılaştığınızda kendi başınıza inceleme yapmaya, dosyaları silmeye veya saldırganla iletişime geçmeye çalışmayın. İşlemi durdurun, mümkünse cihazı kullanmayı bırakın ve kurumun belirlediği olay bildirim kanalına başvurun.",
+        "Bildirim sırasında olayın ne zaman gerçekleştiğini, hangi cihaz veya sistemin etkilendiğini ve hangi işlemi yaptığınızı açıkça belirtin. Mesajı, ekran görüntüsünü veya ilgili bilgileri koruyun. Hata yapmış olsanız bile olayı gizlemek, saldırının büyümesine neden olabilir. Erken ve doğru bildirim, teknik ekiplerin gerekli önlemleri almasını sağlar. Güvenlik kültüründe önemli olan hatasız görünmek değil, risk karşısında sorumlu ve hızlı hareket etmektir."
+      ],
+      "keyMessage": "Olayları gizlemeyin; gecikmeden bildirin."
+    },
+    {
+      "id": 9,
+      "title": "Siber Saldırı Tatbikatları ve Simülasyonlar",
+      "paragraphs": [
+        "Kurum içinde gerçekleştirilen siber saldırı tatbikatları ve simülasyonlar, çalışanların gerçek bir olay karşısında nasıl davranacağını ölçmek ve geliştirmek amacıyla yapılır. Bu çalışmaların amacı çalışanları cezalandırmak veya küçük düşürmek değildir. Amaç, gerçek saldırı meydana gelmeden önce zayıf noktaları belirlemek, doğru davranışları pekiştirmek ve olay müdahale sürecini sınamaktır.",
+        "Phishing simülasyonlarında çalışanlara kontrollü ve zararsız test e-postaları gönderilebilir. Mesajı fark ederek bildiren, bağlantıya tıklayan veya bilgi girişi yapan çalışanların davranışları ölçülebilir. Sonuçlar, hangi konularda ek eğitim gerektiğini anlamak için kullanılır. Tatbikat sonrasında mesajdaki uyarı işaretleri açıklanmalı ve çalışanlara doğru hareket biçimi gösterilmelidir.",
+        "Masa başı tatbikatlarda kayıp cihaz, fidye yazılımı, yanlış alıcıya veri gönderimi, hesap ele geçirilmesi veya hizmet kesintisi gibi senaryolar ele alınabilir. İlgili birimler olayın nasıl bildirileceğini, kimin hangi kararı vereceğini, sistemlerin nasıl izole edileceğini ve faaliyetlerin nasıl sürdürüleceğini uygular. Teknik ekiplerin yanı sıra İnsan Kaynakları, hukuk, iletişim, yönetim ve iş birimlerinin sorumlulukları da test edilir.",
+        "Tatbikatlar periyodik olarak tekrarlanmalı, sonuçlar kayıt altına alınmalı ve tespit edilen eksiklikler için iyileştirme faaliyetleri planlanmalıdır. Aynı hatanın tekrar edilmesi durumunda yalnızca çalışan davranışı değil, eğitim içeriği, süreçler ve kullanılan teknik kontroller de gözden geçirilmelidir. Etkili bir güvenlik programı, çalışanların saldırıları tanımasını, olayları hızlı bildirmesini ve kurumun koordineli biçimde müdahale edebilmesini sağlar."
+      ],
+      "keyMessage": "Tatbikatlar cezalandırmak için değil, gerçek saldırıya hazırlıklı olmak için yapılır."
+    },
+    {
+      "id": 10,
+      "title": "Bilgisayar Güvenliği ve Güvenli Olmayan Yazılımlar",
+      "paragraphs": [
+        "Bilgisayar güvenliği, çalışanın kullandığı masaüstü bilgisayarın, dizüstü bilgisayarın ve kurumsal uygulamaların yetkisiz erişime, zararlı yazılımlara ve veri kaybına karşı korunmasını kapsar. Kurum tarafından tahsis edilen cihazlar iş amacıyla kullanılmalı; cihazın güvenlik ayarları, antivirüs yazılımı, güvenlik duvarı veya güncelleme sistemi kullanıcı tarafından devre dışı bırakılmamalıdır. Cihaz yavaş çalışıyor diye güvenlik yazılımını kapatmak, kurumun tüm ağı için risk oluşturabilir.",
+        "İşletim sistemi, tarayıcı, ofis uygulamaları ve diğer yazılımlarda yayımlanan güvenlik güncellemeleri zamanında kurulmalıdır. Güncelleme bildirimi aldığınızda sürekli ertelemek, saldırganların bilinen bir açıklıktan yararlanmasına imkân verebilir. Örneğin, aylar önce düzeltilmiş bir tarayıcı açığı, güncelleme yapılmayan bilgisayarda zararlı bir internet sitesinin açılmasıyla hesabın veya dosyaların ele geçirilmesine neden olabilir.",
+        "Kurumun onayı olmadan yazılım, tarayıcı eklentisi, mobil uygulama veya uzaktan erişim programı kurmayın. İnternetten indirilen lisanssız yazılımlar, kırılmış programlar, oyunlar, ekran koruyucular ve ücretsiz dönüştürme araçları zararlı kod içerebilir. Örneğin, ücretsiz PDF dönüştürme amacıyla indirilen bir uygulama arka planda tarayıcı parolalarını toplayabilir veya dosyaları dışarı aktarabilir. Yazılıma ihtiyaç duyulması hâlinde Bilgi Teknolojileri birimine talep iletilmelidir.",
+        "Cihazda olağandışı yavaşlama, kendiliğinden açılan pencereler, bilinmeyen uygulamalar, antivirüs uyarıları veya dosyaların açılamaması gibi belirtiler görülürse cihazı kullanmaya devam etmeyin. Uyarıyı kapatmak, programı kendiniz silmeye çalışmak veya internetten çözüm aramak yerine Bilgi Teknolojileri birimine bildirin. Kurumsal cihazı aile bireylerine veya yetkisiz kişilere kullandırmayın; masadan ayrılırken ekranı mutlaka kilitleyin."
+      ],
+      "keyMessage": "Onaysız ve lisanssız yazılım kurmayın; güvenlik kontrollerini devre dışı bırakmayın."
+    },
+    {
+      "id": 11,
+      "title": "İnternet Güvenliği",
+      "paragraphs": [
+        "İnternet kullanımı sırasında ziyaret edilen siteler, indirilen dosyalar ve kullanılan çevrim içi hizmetler kurum sistemlerine doğrudan etki edebilir. Bir sitenin profesyonel görünmesi veya arama sonuçlarında üst sıralarda yer alması güvenli olduğu anlamına gelmez. Sahte giriş sayfaları, reklamlar ve kopyalanmış internet siteleri kullanıcı adı, parola ve ödeme bilgilerini ele geçirmek amacıyla hazırlanabilir.",
+        "İnternet adresini dikkatle kontrol edin. Kurum, banka veya kamu kuruluşu adına benzeyen fakat harf değişikliği içeren adreslere karşı dikkatli olun. Tarayıcının sertifika uyarısını geçerek siteye devam etmeyin. Örneğin, e-posta ile gelen “dosyanızı görüntüleyin” bağlantısı gerçek bir bulut hizmetine benzeyen sahte sayfa açabilir. Bu sayfaya kurumsal parolanın girilmesi saldırgana doğrudan hesap erişimi sağlar.",
+        "Kurumsal verileri ücretsiz dosya paylaşım, çeviri, metin özetleme, görsel oluşturma veya yapay zekâ uygulamalarına yüklemeden önce kurumun ilgili hizmete izin verip vermediğini kontrol edin. Bir müşteri sözleşmesini veya çalışan listesini ücretsiz bir yapay zekâ hizmetine yüklemek, verinin kurum kontrolü dışına çıkmasına ve gizlilik yükümlülüklerinin ihlal edilmesine neden olabilir. Kullanımı onaylanmış olsa dahi yalnızca gerekli ve uygun veri paylaşılmalıdır.",
+        "Halka açık kablosuz ağlarda kurumsal işlemler yapmayın; zorunlu durumlarda kurumun belirlediği güvenli bağlantı yöntemini kullanın. İnternet üzerinden gelen sahte virüs uyarılarına, ödül mesajlarına ve yazılım güncelleme pencerelerine tıklamayın. İnternet erişiminin kayıt altına alınabileceğini ve kurum kaynaklarının yasalara, iş amaçlarına ve kabul edilebilir kullanım kurallarına uygun kullanılması gerektiğini unutmayın."
+      ],
+      "keyMessage": "İnternet adresini doğrulayın; kurumsal veriyi onaysız çevrim içi hizmetlere yüklemeyin."
+    },
+    {
+      "id": 12,
+      "title": "Yasal Sorumluluklar ve KVKK Farkındalığı",
+      "paragraphs": [
+        "Çalışanlar ve tedarikçiler, görevleri sırasında yalnızca kurum politikalarına değil, yürürlükteki mevzuata, sözleşmelere ve gizlilik yükümlülüklerine de uymak zorundadır. Kişisel verilerin korunması, fikrî mülkiyet hakları, lisans şartları, ticari sırların korunması ve elektronik haberleşmeye ilişkin kurallar bilgi güvenliği çalışmalarının yasal boyutunu oluşturur. Bir işlemin teknik olarak yapılabiliyor olması, hukuken ve kurumsal olarak izin verildiği anlamına gelmez.",
+        "6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında kişisel veriler belirli, açık ve meşru amaçlarla; amaçla bağlantılı, sınırlı ve ölçülü şekilde işlenmelidir. Çalışan, müşteri veya ziyaretçiye ait ad, telefon, e-posta, kimlik, özlük, kamera görüntüsü ve sağlık bilgileri kişisel veri niteliğinde olabilir. Sağlık bilgileri, biyometrik veriler ve ceza mahkûmiyeti bilgileri gibi veriler özel nitelikli kişisel veri olarak daha sıkı korunmalıdır.",
+        "Örneğin, çalışan listesinin işin gereği olmayan bir kişiye gönderilmesi, müşteri telefonlarının kişisel cep telefonuna kaydedilmesi, özgeçmişlerin açık klasörde tutulması veya sağlık raporunun ortak mesajlaşma grubunda paylaşılması veri güvenliği ihlaline neden olabilir. Kişisel veriler yalnızca yetkili kişilerce, görev amacıyla ve gerekli süre boyunca kullanılmalıdır. İlgili kişinin verisi merak amacıyla görüntülenmemeli, kopyalanmamalı veya üçüncü kişilere aktarılmamalıdır.",
+        "Kurum dokümanları, yazılımlar, teknik çizimler, eğitim materyalleri ve lisanslı içerikler izinsiz çoğaltılmamalı veya kişisel amaçla kullanılmamalıdır. Gizlilik yükümlülüğü iş veya sözleşme ilişkisi sona erdikten sonra da devam edebilir. Yasal gerekliliğinden emin olmadığınız bir veri talebi, paylaşım veya saklama işlemiyle karşılaştığınızda yöneticinize, KVKK sorumlusuna, hukuk birimine ya da belirlenen yetkiliye danışın. Şüpheli veri paylaşımını gecikmeden bilgi güvenliği olayı olarak bildirin."
+      ],
+      "keyMessage": "Kişisel veriyi yalnızca yetkiniz, göreviniz ve belirlenen amaç kapsamında işleyin."
+    },
+    {
+      "id": 13,
+      "title": "Tedarikçi ve Üçüncü Taraf Bilgi Güvenliği Farkındalığı",
+      "paragraphs": [
+        "Tedarikçiler, taşeronlar, danışmanlar, bakım ekipleri ve geçici personel kurumun bilgi varlıklarına veya çalışma alanlarına erişebildikleri ölçüde bilgi güvenliği zincirinin bir parçasıdır. Tedarikçi çalışanlarının kuruma ait kullanıcı hesabı, cihaz, ağ bağlantısı, belge veya fiziksel alana erişimi yalnızca sözleşmede ve görev tanımında belirtilen ihtiyaçla sınırlı olmalıdır. Başka bir çalışan adına işlem yapılmamalı ve ortak hesap kullanılmamalıdır.",
+        "Tedarikçi personel kendisine verilen erişim bilgilerini kendi şirketindeki başka çalışanlarla dahi paylaşmamalıdır. İş tamamlandığında geçici hesaplar, uzaktan bağlantılar ve fiziksel erişim yetkileri kapatılmalıdır. Örneğin, bakım yapmak için verilen VPN hesabının farklı bir projede kullanılması veya iş tamamlandıktan sonra aktif bırakılması yetkisiz erişim riski doğurur. Tedarikçi, personel değişikliklerini ve işten ayrılmaları kuruma zamanında bildirmelidir.",
+        "Kurumdan edinilen veriler yalnızca hizmetin yürütülmesi amacıyla kullanılmalı; tedarikçinin kişisel e-posta hesabına, kendi bulut alanına veya onaysız alt yüklenicilere aktarılmamalıdır. Kurum verisinin başka bir tedarikçiyle paylaşılması gerekiyorsa önceden yetki ve onay alınmalıdır. Gizlilik, veri işleme, saklama, imha ve olay bildirimi yükümlülükleri sözleşme hükümlerine uygun olarak yerine getirilmelidir.",
+        "Tedarikçinin sisteminde kurum verisini etkileyebilecek bir siber olay meydana gelirse olay gizlenmemeli ve sözleşmede belirlenen süre ile iletişim kanalı üzerinden kuruma bildirilmelidir. Kayıp cihaz, ele geçirilen hesap, yanlış alıcıya gönderilen belge veya zararlı yazılım olayı buna örnek verilebilir. Tedarikçi çalışanları kurumun güvenlik eğitimlerine, tatbikatlarına ve saha kurallarına uymalı; kendilerine bildirilen eksiklikler için düzeltici faaliyet yürütmelidir."
+      ],
+      "keyMessage": "Tedarikçi erişimleri görevle sınırlıdır; kurum verisi izinsiz aktarılamaz ve paylaşılamaz."
+    },
+    {
+      "id": 14,
+      "title": "Bilgi Güvenliği İhlal Olayı Yönetimi",
+      "paragraphs": [
+        "Bilgi güvenliği ihlal olayı; bilginin gizliliğini, bütünlüğünü veya erişilebilirliğini etkileyen ya da etkileme ihtimali bulunan her türlü durumdur. Şüpheli e-posta, yanlış kişiye veri gönderimi, kayıp cihaz, yetkisiz erişim, zararlı yazılım, parola paylaşımı, dosyaların silinmesi, hizmet kesintisi ve fiziksel alana izinsiz giriş olay örnekleridir. Kesin olarak ihlal gerçekleştiğinden emin olmayı beklemeden şüpheli durumlar da bildirilmelidir.",
+        "Örneğin, müşteri listesini yanlış e-posta adresine gönderdiğinizi fark ettiğinizde yalnızca alıcıdan mesajı silmesini istemek yeterli değildir. Olay; gönderilen veri, alıcı, tarih, saat ve yapılan işlemlerle birlikte belirlenen birime bildirilmelidir. Benzer şekilde, şüpheli bağlantıya tıkladıktan sonra sayfayı kapatmak olayın sona erdiği anlamına gelmez. Hesap bilgilerinin veya cihazın etkilenmiş olabileceği dikkate alınmalıdır.",
+        "Bir olay sırasında işlemi durdurun, ancak delilleri yok etmeyin. Şüpheli e-postayı silmeyin, cihazı formatlamayın, günlük kayıtlarını değiştirmeyin ve saldırganla iletişime geçmeyin. Ekran görüntüsü, mesaj, dosya adı, cihaz bilgisi ve olay saati gibi bilgileri koruyun. Kurumun belirlediği Bilgi Teknolojileri, bilgi güvenliği, olay müdahale veya yönetici bildirim kanalını kullanın.",
+        "Olay bildiriminin amacı suçlu bulmak değil, zararı sınırlamak, yasal ve sözleşmesel yükümlülükleri değerlendirmek ve tekrarını önlemektir. Özellikle kişisel veri ihlallerinde olayın kapsamının hızlı belirlenmesi ve gerekli bildirimlerin zamanında değerlendirilebilmesi önemlidir. Çalışan ve tedarikçi, inceleme sürecinde doğru bilgi vermeli, delilleri korumalı ve alınan acil önlemlere uymalıdır. Erken bildirim, küçük bir olayın kurumsal krize dönüşmesini önleyebilir."
+      ],
+      "keyMessage": "Şüpheli olayı gizlemeyin; durdurun, delili koruyun ve derhal bildirin."
+    },
+    {
+      "id": 15,
+      "title": "Güvenli Davranışların Özeti",
+      "paragraphs": [
+        "Bilgi güvenliği ve siber hijyen, bir defa alınan eğitimle tamamlanan çalışmalar değildir. Tehditler, kullanılan sistemler ve çalışma yöntemleri değiştikçe güvenlik davranışlarının da güncel tutulması gerekir. Kurum politikalarını okumak, verilen eğitimlere katılmak, tatbikatlarda sorumluluk almak ve karşılaşılan olayları bildirmek her çalışanın görevidir.",
+        "Günlük çalışmalarınızda şu temel davranışları uygulayın: Beklenmeyen e-posta, mesaj ve aramalarda acele etmeyin. Göndereni ve talebi farklı bir kanaldan doğrulayın. Şüpheli bağlantıları açmayın, kaynağı bilinmeyen dosya ve USB bellekleri kullanmayın. Kurumsal bilgileri sosyal medyada, kişisel e-posta hesaplarında, onaysız bulut veya yapay zekâ hizmetlerinde paylaşmayın. Şahsi cihazları yalnızca izin verilen koşullarda kullanın.",
+        "Hesaplarınızda uzun ve benzersiz parolalar ile çok faktörlü doğrulama kullanın. Parolanızı, erişim kartınızı ve doğrulama kodunuzu paylaşmayın. Hassas veriye yalnızca göreviniz için gerekli olduğu ölçüde erişin; veriyi yetkili alanlarda saklayın, güvenli kanallardan aktarın ve saklama süresi sonunda uygun yöntemle imha edin. Masadan ayrılırken ekranı kilitleyin ve basılı belgeleri koruyun.",
+        "Şüpheli bir olayla karşılaştığınızda dört adımı hatırlayın: Durun, doğrulayın, koruyun ve bildirin. Şüpheli işlemi devam ettirmeyin. Talebin doğruluğunu kontrol edin. Delil niteliğindeki mesaj ve kayıtları koruyun. Olayı vakit kaybetmeden belirlenen birime iletin. Güvenlik zincirinin en güçlü halkası, riskleri fark eden ve doğru zamanda doğru hareket eden çalışandır. Kurumun bilgi varlıklarını korumak, hepimizin ortak sorumluluğudur."
+      ],
+      "keyMessage": "Durun. Doğrulayın. Koruyun. Bildirin."
+    }
+  ]
+}

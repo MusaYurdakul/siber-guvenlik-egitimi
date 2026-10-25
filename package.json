@@ -1,0 +1,35 @@
+{
+  "name": "siber-guvenlik-farkindalik-egitimi",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k -n api,web \"node server/index.mjs\" \"vite\"",
+    "build": "tsc --noEmit && vite build",
+    "start": "node server/index.mjs",
+    "typecheck": "tsc --noEmit",
+    "extract": "node scripts/extract-docx.mjs",
+    "tts": "node scripts/generate-audio.mjs",
+    "verify": "node scripts/verify-content.mjs",
+    "paket": "npm run build && node scripts/paket.mjs",
+    "test": "node scripts/test-api.mjs",
+    "yuk-testi": "node scripts/yuk-testi.mjs",
+    "teslim": "npm run paket && node scripts/teslim.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.469.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.0",
+    "fflate": "^0.8.2",
+    "msedge-tts": "^2.0.0",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3"
+  }
+}

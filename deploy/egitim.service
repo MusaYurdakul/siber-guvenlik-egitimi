@@ -1,0 +1,30 @@
+[Unit]
+Description=Siber Guvenlik Farkindalik Egitimi
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=egitim
+Group=egitim
+WorkingDirectory=/opt/egitim
+Environment=NODE_ENV=production
+# Şifre özetleme için iş parçacığı sayısı: aynı anda çok kişi giriş yaparken bekleme kısalır.
+Environment=UV_THREADPOOL_SIZE=8
+Environment=TRAINING_PORT=8797
+Environment=TRAINING_HOST=127.0.0.1
+Environment=TRAINING_BEHIND_PROXY=1
+Environment=TRAINING_DATA_DIR=/var/lib/egitim
+Environment=TRAINING_PUBLIC_URL=__PUBLIC_URL__
+ExecStart=/usr/bin/node server/index.mjs
+Restart=always
+RestartSec=3
+
+# Servis yalnızca kendi veri klasörüne yazabilir.
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/var/lib/egitim
+
+[Install]
+WantedBy=multi-user.target
