@@ -4,6 +4,30 @@
 Kaynak metin: `source/Bilgi Guvenligi ve Siber Guvenlik Egitim_Metni.docx` (15 bölüm). Eğitim metni belgeden
 betikle çıkarılır ve değiştirilmeden kullanılır.
 
+## Ekran görüntüleri
+
+**Karşılama:** eğitim özeti, ilerleme ve "Durun → Doğrulayın → Koruyun → Bildirin" teması
+
+![Karşılama ekranı](docs/karsilama.png)
+
+**Modül:** bölüm listesi, tam metin, paragraf bazında sesli anlatım ve oynatıcı
+
+![Modül sayfası](docs/modul.png)
+
+**Eğitim görseli:** sahte e-postada görünen ad ile gerçek adresin karşılaştırılması
+
+![Eğitim görseli](docs/egitim-gorseli.png)
+
+**Yönetici raporu:** katılımcı durumu, puan, süre ve deneme sayısı; CSV dışa aktarma
+
+![Yönetici raporu](docs/yonetici-raporu.png)
+
+**Konulara göre hata oranı:** sınavda en çok zorlanılan bölümler
+
+![Konulara göre hata oranı](docs/hata-oranlari.png)
+
+> Ekran görüntülerindeki kişiler ve sonuçlar kurgusal demo verisidir.
+
 ## Hızlı başlangıç (Windows)
 
 Gerekli: [Node.js](https://nodejs.org) 22 veya üzeri.
